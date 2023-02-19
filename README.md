@@ -1,7 +1,3 @@
 
 # ndbot
-# ndbot
-# ndbot
-# ndbot
-# ndbot
-# ndbot
+By Andhika
